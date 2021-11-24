@@ -22,3 +22,5 @@ I changed my test.c file so that each grid I'm passing to the test functions is 
 
 4. Was not able to get C/C++ Build Status Working
 This error was because of an error in the filename that i was including in my main file which was different from the real name was. There was another error that I was including .c file of operations rather than the .h header file which was supposed to be included in our program.
+## Badges
+[![cppcheck-action-test](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml)
