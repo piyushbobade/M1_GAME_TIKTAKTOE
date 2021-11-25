@@ -27,3 +27,4 @@ This error was because of an error in the filename that i was including in my ma
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
 [![Valgrind](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/valgrind.yml/badge.svg)](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/valgrind.yml)
+[![Linux C/C++ CI](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/Linux_c-cpp.yml)
