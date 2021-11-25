@@ -26,3 +26,4 @@ This error was because of an error in the filename that i was including in my ma
 [![cppcheck-action-test](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml)
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
+[![cppcheck-action-test](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/piyushbobade/M1_GAME_TIKTAKTOE/actions/workflows/cppcheck.yml)
